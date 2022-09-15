@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "Host\Host.csproj", "{1E8AA7D9-97FD-432B-9CD9-01CD472DF099}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeatherCollector", "WeaherCollector\WeatherCollector.csproj", "{7879CC65-D044-4D42-A779-EE1E9B47AAB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E8AA7D9-97FD-432B-9CD9-01CD472DF099}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E8AA7D9-97FD-432B-9CD9-01CD472DF099}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E8AA7D9-97FD-432B-9CD9-01CD472DF099}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E8AA7D9-97FD-432B-9CD9-01CD472DF099}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7879CC65-D044-4D42-A779-EE1E9B47AAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7879CC65-D044-4D42-A779-EE1E9B47AAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7879CC65-D044-4D42-A779-EE1E9B47AAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7879CC65-D044-4D42-A779-EE1E9B47AAB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C1291F7-5D1D-4CFE-A33A-F11F641F31BF}
+	EndGlobalSection
+EndGlobal
